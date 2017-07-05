@@ -1,7 +1,6 @@
 messenger4j:
-  appSecret:
-  verifyToken : pepe
-
+  appSecret:f5c896ea3ff95877acd0bccb4391db6e
+  verifyToken:pepe
   pageAccessToken:EAACLVajiejcBAH8UsSYENycM8TR9jkZAYquD8bpmz5CS3DLJu6EdsXUWSd31Cd3vAwoFQjHotG6CAfFZAYLoQLGNTrNN8LXlIuy7gEKJy5cjI2Jvop0VZAmgI4Be9Hc4dPXFEjZBZAWz8AZALdkRT2YxaBBbt1SY2bAwzpySzy585S775Q8vVs
 
 logging:
